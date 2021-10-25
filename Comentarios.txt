@@ -1,7 +1,11 @@
 
 Puntos donde fallé:
-.-Algunas Imagenes Apesar de Ser Modificadas por una clase de Css no tienen un Buen Ajuste de tamaño, ya que intente reutilizar classes y cuerpo del Html para ahorrarme
+.-Algunas Imágenes A pesar de Ser Modificadas por una clase de CSS no tienen un Buen Ajuste de tamaño, ya que intente reutilizar clases y cuerpo del HTML para ahorrarme
 Trabajo, pero Me trajo Conflictos con el resto de las paginas como por ejemplo Quienes Somos
 
-.-La validacion en Java script, no tuve tiempo de seguirla revisando, pero en los atributos del formulario, use el autocomplete, y al recargar la pagina, se autocompletan los campos, pero como la validacion es basada en enventos en el input, hay que darle clic, para que valide, y cumpla las condiciones del submit.
+.-La validación en Java script, no tuve tiempo de seguirla revisando, pero en los atributos del formulario, use el autocomplete, y al recargar la página, se autocompletan los campos, pero como la validación es basada en eventos en el input, hay que darle clic, para que valide, y cumpla las condiciones del submit.
 
+.-Con respecto a los puntos de corte, entendí que debían ser 3 de acuerdo con el tpo  Así que me pareció, bien que el Punto de corte Más Pequeño fuera 400px y que si es menor, muestre la página sin estilo para que se vea la diferencia.
+
+seguramente Habrán otros, pero estos son los que me gustaría Aclarar.
+Saludos.
