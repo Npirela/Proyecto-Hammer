@@ -1,0 +1,7 @@
+
+Puntos donde fallé:
+.-Algunas Imagenes Apesar de Ser Modificadas por una clase de Css no tienen un Buen Ajuste de tamaño, ya que intente reutilizar classes y cuerpo del Html para ahorrarme
+Trabajo, pero Me trajo Conflictos con el resto de las paginas como por ejemplo Quienes Somos
+
+.-La validacion en Java script, no tuve tiempo de seguirla revisando, pero en los atributos del formulario, use el autocomplete, y al recargar la pagina, se autocompletan los campos, pero como la validacion es basada en enventos en el input, hay que darle clic, para que valide, y cumpla las condiciones del submit.
+
